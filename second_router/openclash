@@ -123,25 +123,13 @@ config config_subscribe
 config dns_servers
 	option group 'nameserver'
 	option type 'udp'
-	option ip '211.139.29.150'
+	option ip '202.103.24.68'
 	option enabled '0'
 
 config dns_servers
 	option group 'nameserver'
 	option type 'udp'
-	option ip '211.139.29.170'
-	option enabled '0'
-
-config dns_servers
-	option group 'nameserver'
-	option type 'udp'
-	option ip '222.172.200.68'
-	option enabled '0'
-
-config dns_servers
-	option group 'nameserver'
-	option type 'udp'
-	option ip '61.166.150.123'
+	option ip '202.103.44.150'
 	option enabled '0'
 
 config dns_servers
